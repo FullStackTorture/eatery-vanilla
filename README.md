@@ -1,5 +1,5 @@
-# Group 75
-# restaurant-website
+# Project 1
+# Eatery Website
 
 
 ## How to Use Repo
